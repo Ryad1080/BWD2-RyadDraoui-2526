@@ -1,1 +1,7 @@
-# BWD2-Ryad-Draoui-2526
+# Basic Web Development 2
+
+- Academiejaar: 
+- Opleiding: 
+- Klasgroep: 
+- Naam: 
+
